@@ -36,4 +36,3 @@ How to use Ollama commands
 How to download and run a model
 How local LLMs can respond without using a web-based chatbot
 
-```bash
