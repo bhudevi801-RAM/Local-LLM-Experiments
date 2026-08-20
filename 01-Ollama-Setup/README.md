@@ -44,6 +44,32 @@ The model generated a response locally using Ollama.
 
 Ollama was successfully installed, and a local language model was tested.
 
+## Actual Local Test
+
+### Environment
+
+- Ollama version: `0.12.14`
+- Model: `llama3.2:latest`
+- Model size: `2.0 GB`
+
+### Prompt
+
+```text
+Explain artificial intelligence in simple words.
+```
+
+### Response Summary
+
+The model explained that AI processes data, detects patterns, makes predictions or decisions, and is used in virtual assistants, image recognition, and self-driving systems.
+
+### Exit Command
+
+```text
+/bye
+```
+
+The local model ran successfully through Ollama.
+
 ## What I Learned
 
 - What a local LLM is
