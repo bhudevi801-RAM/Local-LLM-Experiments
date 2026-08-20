@@ -23,6 +23,12 @@ Comparing rule-based Python programs with large language model responses.
 - Visual Studio Code
 - GitHub
 
+## Kaggle Notebook
+
+The Python experiments in this repository were tested successfully on Kaggle.
+
+[View the Local LLM Python Experiments notebook](https://www.kaggle.com/code/bhudevitammishetty/local-llm-python-experiments)
+
 ## Author
 
 Bhudevi Tammishetty  
