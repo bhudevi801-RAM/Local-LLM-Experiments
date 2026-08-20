@@ -22,6 +22,7 @@ Comparing rule-based Python programs with large language model responses.
 - Ollama
 - Visual Studio Code
 - GitHub
+- Kaggle
 
 ## Kaggle Notebook
 
