@@ -14,25 +14,39 @@ Ollama is a tool that allows us to download and run large language models locall
 2. Opened Command Prompt.
 3. Checked the Ollama installation:
 
-
+```bash
 ollama --version
-Viewed the locally installed models:
+```
+
+4. Viewed the locally installed models:
+
+```bash
 ollama list
-Ran a local language model:
+```
+
+5. Ran a local language model:
+
+```bash
 ollama run llama3.2:1b
-Entered a sample prompt:
+```
+
+6. Entered a sample prompt:
+
+```text
 Explain artificial intelligence in simple words.
-Observation
+```
+
+## Observation
 
 The model generated a response locally using Ollama.
 
-Result
+## Result
 
 Ollama was successfully installed, and a local language model was tested.
 
-What I Learned
-What a local LLM is
-How to use Ollama commands
-How to download and run a model
-How local LLMs can respond without using a web-based chatbot
+## What I Learned
 
+- What a local LLM is
+- How to use Ollama commands
+- How to download and run a model
+- How local LLMs can respond without using a web-based chatbot
